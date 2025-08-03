@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spring BnB: Modern Hotel Booking App<br>👯 I’m looking to collaborate on FullStack Development<br>🤝 I’m looking for help with<br>🌱 I’m currently learning <br>💬 Ask me about devapatlakirankumar@gmail.com<br>⚡ Fun fact You are Interested In me.
+👯 I’m looking to collaborate on FullStack Development<br>🤝 I’m looking for help with<br>🌱 I’m currently working as Associate Software Engineering <br>💬 Ask me about devapatlakirankumar@gmail.com<br>⚡ Fun fact You are Interested In me.
 
 
 ## 🌐 Socials:
